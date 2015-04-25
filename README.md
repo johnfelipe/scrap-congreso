@@ -1,8 +1,8 @@
-# scrap-congreso
+# Scrap Congreso
 Scrapper para obtener la informacion de los diputados en el congreso
 
 ## Dependecias
-Beautiful Soup
+* Beautiful Soup
 
 ## Correr
 
